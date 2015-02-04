@@ -4,9 +4,6 @@ Android communication app. Built during the Enabling Community coLab hackathon i
 Contributors:
 
 	Lee Kai Yi
-	
 	Hoe Feng Yu
-	
 	Benjamin Low
-	
 	Chee Wei Jie
